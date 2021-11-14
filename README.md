@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently a student at UC Berkeley Coding Boot Camp 
-- 🌱 I’m learning JavaScript, Node.js, mySQL, TypeScript, and much more
-- 👯 I’m looking to collaborate on creative projects
-- 🤔 I’m looking for help with improving my coding knowledge and skills
-- 📫 you can email me at:  jiangjili@gmail.com
+- 🔭 I’m currently a full stack computer programming student at UC Berkeley Coding Boot Camp 
+- 🌱 I’m learning JavaScript, Node.js, mySQL, TypeScript, Python, and much more
+- 👯 I sincerely enjoy learning computer programming and looking to collaborate on creative projects
+- 🤔 I’m looking to learning new computer languages and improving my coding knowledge and skills
+- 📫 please contact me by email at:  jiangjili@gmail.com
 
 -->
 
