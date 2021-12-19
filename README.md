@@ -6,7 +6,7 @@
 - 🌱 I’m learning JavaScript, Node.js, mySQL, TypeScript, Python, Java, and much more
 - 👯 I sincerely enjoy learning computer programming and look forward to collaborating on creative projects
 - 🤔 I’m eager to learning new computer languages and expanding my coding knowledge and skills
-- 📫 please vist my portfolio page at: https://jilijiang.github.io/my-portfolio/
+- 📫 please vist my portfolio page at: https://jilijiang.github.io/My-Portfolio-REACT/
 
 -->
 
