@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m a full-stack web-development student at UC Berkeley Coding Boot Camp 
-- 🌱 I’m focusing my learning on JavaScript, TypeScript, REACT and Node.js 
-- 👯 The areas I have covered include 
+- 🔭 I graduated from the full-stack web-development program at UC Berkeley Coding Boot Camp in Jan 2022
+- 🌱 I’m focusing my learning on Java, Spring Boot, JavaScript, TypeScript, REACT and Node.js 
+- 👯 The areas I am proficient at include 
    * HTML
    * CSS
    * JavaScript
