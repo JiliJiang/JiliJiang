@@ -9,7 +9,7 @@
    * HTML, CSS, responsive design
    * JavaScript, TypeScript, JQuery
    * Node.js, Express, session, JWT, passport
-   * MySQL, PostgraSQL, MongoDB, Firebase, AWS
+   * MySQL, PostgreSQL, MongoDB, Firebase, AWS
    * Restful API, GraphQL/Apollo, WebSockets
    * REACT, React Native
    * Java, Spring Boot
