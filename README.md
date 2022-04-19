@@ -3,22 +3,16 @@
 
 
 - 🔭 I graduated from the full-stack web-development program at UC Berkeley Coding Boot Camp in Jan 2022
-- 🌱 I’m focusing my learning on Java, Spring Boot, JavaScript, TypeScript, REACT and Node.js 
+- 🌱 I’m currently focusing my learning on Java, Spring Boot, JavaScript, TypeScript, REACT and Node.js 
 - 👯 The areas I am proficient at include 
-   * HTML
-   * CSS
-   * JavaScript
-   * responsive desgin
-   * JQuery
-   * Bootstrap
-   * Node.js
-   * Express
-   * MySQL/Sequelize
-   * MongoDB/Mongoose
-   * PWA
-   * GraphQL/Apollo
-   * REACT 
-- 🤔 I’m eager to find ways to expand my knowledge and experiences as a web developer  
+   * HTML, CSS, responsive design
+   * JavaScript, TypeScript, JQuery
+   * Node.js, Express
+   * MySQL/Sequelize, PostgraSQL, MongoDB/Mongoose
+   * Restful API, GraphQL/Apollo, WebSockets
+   * REACT, React Native
+   * Java, Spring Boot
+   * Python 
 - 📫 please vist my portfolio page at: https://jilijiang.github.io/My-Portfolio-REACT/
 
 -->
