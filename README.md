@@ -4,11 +4,11 @@
 
 - 🔭 I graduated from the full-stack web-development program at UC Berkeley Coding Boot Camp in Jan 2022
 - 🔭 I am currently a trainee engineer focusing on REACT and Spring Boot
-- 🌱 I’m currently focusing my learning on Java, Spring Boot, JavaScript, TypeScript, REACT and Node.js 
-- 👯 The areas I am proficient at include 
+- 🌱 My focus is in Java/Spring Boot, JavaScript/TypeScript, REACT and Node.js 
+- 👯 My tech pack includes: 
    * HTML, CSS, responsive design
    * JavaScript, TypeScript, JQuery
-   * Node.js, Express
+   * Node.js, Express, session, JWT, passport
    * MySQL/Sequelize, PostgraSQL, MongoDB/Mongoose
    * Restful API, GraphQL/Apollo, WebSockets
    * REACT, React Native
