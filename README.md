@@ -12,7 +12,7 @@
    * REACT, React Native
    * Java, Spring Boot
    * Python 
-- I am quickly catching up with C# and .net for work   
+   * catching up with C# and .net   
 - 📫 please vist my portfolio page at: https://jilijiang.github.io/My-Portfolio-REACT/
 
 -->
