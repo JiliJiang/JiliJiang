@@ -2,20 +2,10 @@
 
 
 
-- 🔭 I am a Junior software engineer with proficiencies in JavaScript, React.js, and Node.js
-- 👯 My tech pack includes: 
-   * HTML, CSS, responsive design
-   * JavaScript, TypeScript
-   * Node.js, Express, session, JWT, passport
-   * MySQL, PostgreSQL, MongoDB, Firebase, AWS
-   * Restful API, GraphQL/Apollo, WebSockets
-   * REACT, React Native
-   * Java, Spring Boot
-   * Python 
-   * catching up with C# and .net   
-- 📫 please vist my portfolio page at: https://jilijiang.github.io/My-Portfolio-REACT/
+- I am a full stack software engineer with proficiencies in JavaScript, TypeScript, React.js, Node.js, C#, .Net, Java, Spring Boot;
+- Developing knowledge and skills in C++, Python, Django, and Unity 
 
--->
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jilijiang)
