@@ -2,8 +2,9 @@
 
 
 
-- I am a full stack software engineer with proficiencies in JavaScript, TypeScript, React.js, Node.js, C#, .Net, Java, Spring Boot;
-- Developing knowledge and skills in C++, Python, Django, and Unity 
+- I am a Jr software engineer and part-time web development teacher;
+- Proficiencies in JavaScript, React.js, Node.js, and C#;
+- Developing knowledge and skills in Java, Python, and TypeScript 
 
 
 
