@@ -2,9 +2,7 @@
 
 
 
-- I am a Jr software engineer and part-time web development teacher;
-- Proficiencies in JavaScript, React.js, Node.js, and C#;
-- Developing knowledge and skills in Java, Python, and TypeScript 
+I am a full-time software engineer and part-time web development teacher.
 
 
 
